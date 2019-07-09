@@ -1,6 +1,6 @@
-# FlaskApp
+# BLOGERS
 
-My flaskapp is a imple application with authentication and functionality using the Pythons frame work
+My flaskapp is a simple application with authentication and functionality using the Pythons frame work
 
 
 ### Running the app
